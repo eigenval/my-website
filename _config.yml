@@ -1,3 +1,10 @@
 title: My Website
 description: A minimal Jekyll website hosted on GitHub Pages.
 theme: minima
+
+
+navbar:
+  - title: "Home"
+    url: "/"
+  - title: "Blog"
+    url: "/blog/"
