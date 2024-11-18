@@ -8,3 +8,6 @@ navbar:
     url: "/"
   - title: "Blog"
     url: "/blog/"
+
+
+permalink: /:categories/:year/:month/:day/:title/
