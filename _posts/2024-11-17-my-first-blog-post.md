@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First Blog Post"
+title: "Test"
 date: 2024-11-17
 tags: [blog, introduction]
 ---
