@@ -1,7 +1,7 @@
 title: My Website
 description: A minimal Jekyll website hosted on GitHub Pages.
 theme: minima
-
+permalink: /:categories/:year/:month/:day/:title/
 
 navbar:
   - title: "Home"
@@ -10,4 +10,4 @@ navbar:
     url: "/blog/"
 
 
-permalink: /:categories/:year/:month/:day/:title/
+
