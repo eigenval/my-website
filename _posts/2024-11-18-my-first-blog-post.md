@@ -33,7 +33,7 @@ Here’s a sneak peek of the kind of content I’ll be posting:
 
 Thank you for taking the time to read my first post! If you’d like to stay updated, don’t forget to:
 - Subscribe to my blog (if I ever figure out how to add that feature 😄).
-- Follow me on [GitHub](https://github.com/yourusername) for more updates.
+- Follow me on [GitHub](https://github.com/eigenval) for more updates.
 
 Until next time,  
-**[Your Name]**
+**[Anagh]**
