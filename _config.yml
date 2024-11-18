@@ -1,3 +1,7 @@
+url: "https://eigenval.github.io"
+baseurl: "/my-website"
+
+
 title: My Website
 description: A minimal Jekyll website hosted on GitHub Pages.
 theme: minima
