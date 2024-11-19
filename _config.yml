@@ -13,7 +13,8 @@ navbar:
     url: "/about/"
   - title: "Blog"
     url: "/blog/"
-
+  - title: "Research"
+    url: "/research/"
 
     
 
