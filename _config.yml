@@ -9,8 +9,8 @@ theme: minima
 
 
 navbar:
-  - title: "About"
-    url: "/about/"
+  - title: "Home"
+    url: "/"
   - title: "Blog"
     url: "/blog/"
   - title: "Research"
