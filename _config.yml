@@ -1,11 +1,11 @@
 url: "https://eigenval.github.io"
 baseurl: "/my-website"
-
+permalink: /:categories/:year/:month/:day/:title/
 
 title: My Website
 description: A minimal Jekyll website hosted on GitHub Pages.
 theme: minima
-permalink: /:categories/:year/:month/:day/:title/
+
 
 
 navbar:
