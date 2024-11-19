@@ -1,19 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}</title>
-</head>
-<body>
-  <article>
-    <header>
-      <h1>{{ page.title }}</h1>
-      <p>{{ page.date | date: "%B %d, %Y" }}</p>
-    </header>
-    <section>
-      {{ content }}
-    </section>
-  </article>
-</body>
-</html>
+---
+layout: default
+---
+
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">
+      Posted on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      {% if page.tags %}
+        | Tags: 
+        {% for tag in page.tags %}
+          <a href="/tags/{{ tag }}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}
+        {% endfor %}
+      {% endif %}
+    </p>
+  </header>
+
+  <section class="post-content">
+    {{ content }}
+  </section>
+
+  <footer class="post-footer">
+    <p>Thank you for reading! Feel free to leave a comment.</p>
+  </footer>
+</article>
+
+<style>
+  .post-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  .post-meta {
+    color: gray;
+    font-size: 0.9rem;
+  }
+  .post-content {
+    margin-top: 20px;
+  }
+  .post-footer {
+    margin-top: 40px;
+    text-align: center;
+    color: #888;
+  }
+</style>
