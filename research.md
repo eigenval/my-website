@@ -4,7 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-# My Research
 
 Here are links to my research articles:
 
