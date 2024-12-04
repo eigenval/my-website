@@ -4,7 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-# Blog
 
 Welcome to my blog! Below are my recent posts:
 
