@@ -3,6 +3,13 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Website
-This is the home page of my GitHub Pages site. Under construction
-Here I share my reflections on science and life. 
+
+<div class="intro">
+  <img src="{{ site.baseurl }}/assets/images/sample.jpg" alt="Your Name" class="profile-photo">
+  <h1>Welcome to My Website!</h1>
+  <p>
+    Hi, I'm <strong>Anagh</strong>, a neuroscientist. 
+    Explore my blog, research, and projects. Thanks for visiting!
+  </p>
+</div>
+
