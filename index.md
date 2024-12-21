@@ -5,7 +5,7 @@ title: Home
 
 
 <div class="intro">
-  <img src="{{ site.baseurl }}/assets/images/PULSE_97a.jpg" alt="Your Name" class="profile-photo">
+  <img src="{{ site.baseurl }}/assets/images/SelfPhoto.jpeg" alt="Your Name" class="profile-photo">
   <h1>Welcome to My Website!</h1>
   <p>
     Hi, I'm <strong>Anagh</strong>, a neuroscientist. 
