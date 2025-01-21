@@ -1,13 +1,26 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {%- include head.html -%}
-
   <head>
-    <!-- Include MathJax for rendering LaTeX -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }} - {{ page.title }}</title>
+
+    <!-- Add MathJax script -->
+    <script type="text/javascript">
+      window.MathJax = {
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          displayMath: [['$$', '$$'], ['\\[', '\\]']]
+        }
+      };
+    </script>
     <script type="text/javascript" async
       src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
     </script>
+
+    <!-- Include other head content -->
+    {%- include head.html -%}
   </head>
 
   <body>
@@ -23,5 +36,5 @@
     {%- include footer.html -%}
 
   </body>
-
 </html>
+
