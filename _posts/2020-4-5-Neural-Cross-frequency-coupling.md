@@ -16,7 +16,7 @@ The fact that most neural oscillations are not perfect sinusoids should be hardl
 
 <figure>
   <img src="{{ site.baseurl }}/assets/images/fig1.png" alt="Description of image">
-  <figcaption>Your caption goes here.</figcaption>
+  <figcaption>Figure 1.</figcaption>
 </figure>
 
 
@@ -29,18 +29,33 @@ $$
 
 Reducing the 2nd order differential equation into a set of coupled first order differential equations lets us solve the system numerically. Just like the morris-lecar equations, the VdP system possesses a limit cycle which deviates substantially from a perfect sinusoid. The parameter $\alpha$ is an interesting one. By changing $\alpha$ we can change the shape of the resulting limit cycle like so -
 
-![Figure 2]({{ site.baseurl }}/assets/images/fig2.png)
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/fig2.png" alt="Description of image">
+  <figcaption>Figure 2.</figcaption>
+</figure>
+
+
 
 Following is the power spectra of the resulting time series -
 
-![Figure 3 suggests that the symmetrical limit cycle($\alpha = 0$) yields odd harmonics only whereas the asymmetric limit cycle($\alpha =1$) possesses integral harmonics.]({{ site.baseurl }}/assets/images/fig3.png)
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/fig3.png" alt="Description of image">
+  <figcaption>Figure 3. suggests that the symmetrical limit cycle($\alpha = 0$) yields odd harmonics only whereas the asymmetric limit cycle($\alpha =1$) possesses integral harmonics.</figcaption>
+</figure>
 
 Interestingly, there exists a well-defined relationship between the phases of the harmonics. This relationship can be quantified using the standard technique of bandpass filtering the signal in order to obtain time-series corresponding to individual harmonics and then using the hilbert transform to extract phases-
 
-![Figure 4]({{ site.baseurl }}/assets/images/fig4.png)
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/fig4.png" alt="Description of image">
+  <figcaption>Figure 4.</figcaption>
+</figure>
+
 
 Basically, in our example the oscillator frequency displays a phase locking with its $n^{th}$ harmonic. This type of coupling is also referred as n:m phase locking and has been observed in diverse natural phenomenon. The extent of the coupling can be quantified by studying the statistics of the phase difference using a circular phase histogram-
 
-![Figure 5]({{ site.baseurl }}/assets/images/fig5.png)
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/fig5.png" alt="Description of image">
+  <figcaption>Figure 5.</figcaption>
+</figure>
 
 As can be seen, the phase differences cluster in a particular direction instead of being uniformly distributed. 
