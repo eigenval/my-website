@@ -12,7 +12,7 @@ Recent years have seen an explosion in articles that claim to have 'discovered' 
 
 The fact that most neural oscillations are not perfect sinusoids should be hardly surprising. Afterall, what we see as a neural trace is really the outcome of a high dimensional dynamical process. One mechanism through which an oscillation emerges in such systems is through the creation of a limit cycle. Therefore, an oscillatory waveform corresponds to the shape of a limit cycle in the phase space.  For example, the following figure represents the spike morphology of the Morris-Lecar neuron-
 
-![Alt Text](assets/images/fig1.png)
+![Alt Text]({{ site.baseurl }}/assets/images/fig1.png)
 
 
 This point can be further explored using the Van Der Pol oscillator, which is a prototypical non-linear limit cycle oscillator. The following equations correspond to the dynamics of the VdP oscillator-
