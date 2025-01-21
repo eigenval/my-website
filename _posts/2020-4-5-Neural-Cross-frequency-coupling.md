@@ -2,7 +2,7 @@
 layout: post
 title: "Neural Cross frequency coupling"
 date: 2020-4-5
-tags: [biology, tutorial, neuroscience]
+tags: ["biology", "tutorial", "neuroscience"]
 ---
 
 
