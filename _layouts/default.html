@@ -6,7 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ site.title }} - {{ page.title }}</title>
 
-    <!-- Add MathJax script -->
+    <!-- Other head content (meta tags, links, etc.) -->
+    {%- include head.html -%}
+
+    <!-- MathJax -->
     <script type="text/javascript">
       window.MathJax = {
         tex: {
@@ -18,9 +21,6 @@
     <script type="text/javascript" async
       src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
     </script>
-
-    <!-- Include other head content -->
-    {%- include head.html -%}
   </head>
 
   <body>
@@ -37,4 +37,5 @@
 
   </body>
 </html>
+
 
