@@ -16,6 +16,11 @@ navbar:
   - title: "Research"
     url: "/research/"
 
+
+plugins:
+  - jekyll-tags
+    
+
     
 
 
