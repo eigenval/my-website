@@ -8,7 +8,7 @@ tags: [society]
 Delhi is the now the most polluted city in the world. During a particularly foul spell of air pollution I decided to make some forays into data analysis and in the process, stumbled upon some interesting insights. As always, it starts withs a histogram 
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/images/DelhiPillution/f1.png" alt="Description of image">
+  <img src="{{ site.baseurl }}/assets/images/DelhiPollution/f1.png" alt="Description of image">
   <figcaption>Figure 1.</figcaption>
 </figure>
 
@@ -18,7 +18,7 @@ The city’s air is at its worst in the winter months November-January- though s
 plummeting again to November levels in January. This could possibly be the effect of thermal inversion. 
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/images/DelhiPillution/f2.png" alt="Description of image">
+  <img src="{{ site.baseurl }}/assets/images/DelhiPollution/f2.png" alt="Description of image">
   <figcaption>Figure 2.</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ For more see - https://smartairfilters.com/en/blog/when-is-pm2-5-the-lowest/
 
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/images/DelhiPillution/f3.png" alt="Description of image">
+  <img src="{{ site.baseurl }}/assets/images/DelhiPollution/f3.png" alt="Description of image">
   <figcaption>Figure 3.</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ Figure 3. Is the power spectrum of the AQI time series.The peak indicated by the
 with a frequency roughly of 1 cycle every 24 hrs. The sun, in other words, exerts a powerful influence on air quality.
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/images/DelhiPillution/f4.png" alt="Description of image">
+  <img src="{{ site.baseurl }}/assets/images/DelhiPollution/f4.png" alt="Description of image">
   <figcaption>Figure 4.</figcaption>
 </figure>
 
