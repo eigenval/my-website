@@ -19,6 +19,11 @@ navbar:
 
 plugins:
   - jekyll-tags
+
+tags:
+  layout: tag   # Specifies the layout template to use for tag pages
+  permalink: /tags/:tag/   # Specifies the URL structure for tag pages
+  
     
 
     
