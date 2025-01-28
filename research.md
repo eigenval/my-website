@@ -12,3 +12,4 @@ Here are links to my research articles:
 - [**The virtual multiple sclerosis patient**](https://www.cell.com/iscience/fulltext/S2589-0042(24)01326-9)
 - [**Lifespan associated global patterns of coherent neural communication**](https://www.sciencedirect.com/science/article/pii/S1053811920303116)
 - [**Inhibition of thalamic relay nuclei scales the aperiodic and alpha band oscillations associated with arousal during naturalistic stimulus viewing**](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00451/127395)
+- [**Optimal lockdown strategies for SARS-CoV2 mitigation— an Indian perspective**](https://www.medrxiv.org/content/medrxiv/early/2020/08/04/2020.07.31.20165662.full.pdf)
