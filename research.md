@@ -7,6 +7,7 @@ permalink: /research/
 
 Here are links to my research articles:
 
+- [**The critical roaming hypothesis: arousal-driven transitions across critical lines reproduce human functional connectivity dynamics**](https://www.biorxiv.org/content/10.64898/2025.12.29.696846v1.abstract) - Our new pre-print where we explore the role of arousal in modulating on-going functional connectivity.
 - [**Whole-Brain Network Models: From Physics to Bedside**](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2022.866517/full) - Here we review the field of large scale whole brain computational models.
 - [**Biophysical mechanism underlying compensatory preservation of neural synchrony over the adult lifespan**](https://www.nature.com/articles/s42003-022-03489-4) - Here we combine dynamical systems modelling with MEG analysis to understand age-related neural compensations.
 - [**The virtual multiple sclerosis patient**](https://www.cell.com/iscience/fulltext/S2589-0042(24)01326-9)
