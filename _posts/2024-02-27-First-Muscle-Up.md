@@ -2,6 +2,7 @@
 title: "First Muscle Up!"
 date: 2024-02-27
 tags: [physical culture]
+topic: Weight Training
 ---
 
 ## I Finally Got My First Muscle-Up! 🎉

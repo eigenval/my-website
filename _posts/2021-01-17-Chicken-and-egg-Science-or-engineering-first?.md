@@ -3,6 +3,7 @@ layout: post
 title: "Chicken and egg - Science or engineering first ?"
 date: 2021-01-17
 tags: [biology, neuroscience, AI, deep-learning]
+topic: AI
 ---
 
 

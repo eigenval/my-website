@@ -3,6 +3,7 @@ layout: post
 title: "The Chalming Zombies"
 date: 2018-11-25
 tags: [neuroscience, philosophy]
+topic: Philosophy
 ---
 
 

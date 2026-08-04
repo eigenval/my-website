@@ -3,6 +3,7 @@ layout: post
 title: "Delhi's Air IQ"
 date: 2020-3-29
 tags: [society]
+topic: Data Science
 ---
 
 Delhi is the now the most polluted city in the world. During a particularly foul spell of air pollution I decided to make some forays into data analysis and in the process, stumbled upon some interesting insights. As always, it starts withs a histogram 

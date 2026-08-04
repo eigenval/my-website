@@ -3,6 +3,7 @@ layout: post
 title: "Dynamical Diseases"
 date: 2019-1-22
 tags: [neuroscience, biology, physics]
+topic: Neuroscience
 ---
 
 

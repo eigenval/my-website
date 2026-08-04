@@ -8,13 +8,10 @@ theme: minima
 
 
 
-navbar:
-  - title: "Home"
-    url: "/"
-  - title: "Blog"
-    url: "/blog/"
-  - title: "Research"
-    url: "/research/"
+header_pages:
+  - index.md
+  - research.md
+  - blog.md
 
 
 plugins:

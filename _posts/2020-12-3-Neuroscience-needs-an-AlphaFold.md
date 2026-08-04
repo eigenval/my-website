@@ -3,6 +3,7 @@ layout: post
 title: "Neuroscience needs an AlphaFold"
 date: 2020-12-3
 tags: [biology, neuroscience, AI, deep-learning]
+topic: Neuroscience
 ---
 
 The recent news of the success of Google's AI platform-AlphaFold2- in predicting protein structure with unprecedented accuracy has electrified the field of biology and renewed interest in the application of deep-learning in discovery science. By predicting, to a great accuracy, the relationship of amino acid sequences and the 3D geometry of the resulting protein, google has made way for the manipulation of the bio-molecular world at an unprecedented scale.
