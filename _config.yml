@@ -1,5 +1,5 @@
-url: "https://eigenval.github.io"
-baseurl: "/my-website"
+url: "https://anaghpathak.com"
+baseurl: ""
 permalink: /:categories/:year/:month/:day/:title/
 
 title: Neuromath
