@@ -9,9 +9,17 @@ permalink: /research/
 
 ## Selected Papers
 
-My most cited work, according to Google Scholar.
+My most cited work, according to Google Scholar, plus recent highlights.
 
 <ul class="paper-list">
+
+  <li class="paper-entry">
+    <img class="paper-thumb" src="{{ site.baseurl }}/assets/images/paper-thumbnails/critical-roaming-arousal.png" alt="Figure from Arousal-driven critical roaming reproduces human functional connectivity dynamics">
+    <div class="paper-body">
+      <a class="paper-title" href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003916">Arousal-driven critical roaming reproduces human functional connectivity dynamics</a>
+      <p class="paper-summary">We show that slow fluctuations in arousal, modeled as stochastic changes in cortical excitability and neural gain, let connectome-based brain models roam across critical regimes and reproduce the fat-tailed statistics of empirical functional connectivity dynamics far better than models without arousal-driven variability.</p>
+    </div>
+  </li>
 
   <li class="paper-entry">
     <img class="paper-thumb" src="{{ site.baseurl }}/assets/images/paper-thumbnails/whole-brain-network-models.png" alt="Figure from Whole-Brain Network Models: From Physics to Bedside">
