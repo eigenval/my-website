@@ -6,6 +6,8 @@ topic: AI
 tags: [AI, Philosophy]
 ---
 
+<p class="post-note"><em>This article was written in collaboration with an LLM (ideas belong to the author).</em></p>
+
 If you are a computational researcher, the recent rise of AI-enabled "vibe research" has probably not done much for your already existing imposter syndrome.
 
 After all, if programming was the main skill you brought to the table, these are difficult times indeed. The ability to write code, debug it, build pipelines, run analyses, and even implement fairly sophisticated models is rapidly becoming less scarce. An LLM can now do much of this work—often faster than you can.
